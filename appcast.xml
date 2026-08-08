@@ -3,6 +3,24 @@
     <channel>
         <title>Fashioze Sales</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Sat, 08 Aug 2026 20:55:49 +0800</pubDate>
+            <link>https://github.com/wjr18521614513/fashioze-sales-updates</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Fashioze Sales 0.2.1
+
+- 折线图鼠标交互改为按最近小时自动吸附
+- 悬浮卡同时显示今天、昨天及同比差值
+- 增加纵向参考线和节点高亮，精确金额更容易查看
+- 销售额、订单数和客单价更新时使用平滑数字过渡
+- 折线数据刷新时增加平滑过渡动画
+]]></description>
+            <enclosure url="https://github.com/wjr18521614513/fashioze-sales-updates/releases/download/v0.2.1/Fashioze-Sales-0.2.1.zip" length="4554633" type="application/octet-stream" sparkle:edSignature="cvM/oxeUNaFgxjRKkhKQYkdFVRmvMoQx+ECYA+wp/Xd9bTjKuQflKXe0Edl/7EQzJVUKri+KX0ntmePdjZrTDg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sat, 08 Aug 2026 20:27:20 +0800</pubDate>
             <link>https://github.com/wjr18521614513/fashioze-sales-updates</link>
