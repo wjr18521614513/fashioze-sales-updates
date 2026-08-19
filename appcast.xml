@@ -3,6 +3,25 @@
     <channel>
         <title>Fashioze Sales</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Wed, 19 Aug 2026 17:19:35 +0800</pubDate>
+            <link>https://github.com/wjr18521614513/fashioze-sales-updates</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Fashioze Sales 0.2.3
+
+- 针对 MacBook Pro ProMotion 120Hz 优化看板滚动
+- 移除内容卡片的逐帧实时背景模糊，保留轻量玻璃观感
+- 将三处大面积动态模糊改为静态径向渐变
+- 将完整看板整体刷新周期由 2 秒调整为 15 秒，与数据轮询一致
+- 减少卡片阴影层数和离屏合成范围
+- 保留顶部操作栏与日期选择器的系统原生 Liquid Glass
+]]></description>
+            <enclosure url="https://github.com/wjr18521614513/fashioze-sales-updates/releases/download/v0.2.3/Fashioze-Sales-0.2.3.zip" length="4568588" type="application/octet-stream" sparkle:edSignature="3BYWd5NY7uT/YgtKc0oXKO6xhTidqAnyqDI4YzUit2OV5vLtj/3eRBCNAKcIGKX5t3olFGKE4+JBlkvUmrAbAw=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Wed, 19 Aug 2026 17:10:06 +0800</pubDate>
             <link>https://github.com/wjr18521614513/fashioze-sales-updates</link>
@@ -38,25 +57,6 @@
 - 折线数据刷新时增加平滑过渡动画
 ]]></description>
             <enclosure url="https://github.com/wjr18521614513/fashioze-sales-updates/releases/download/v0.2.1/Fashioze-Sales-0.2.1.zip" length="4554633" type="application/octet-stream" sparkle:edSignature="cvM/oxeUNaFgxjRKkhKQYkdFVRmvMoQx+ECYA+wp/Xd9bTjKuQflKXe0Edl/7EQzJVUKri+KX0ntmePdjZrTDg=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 08 Aug 2026 20:27:20 +0800</pubDate>
-            <link>https://github.com/wjr18521614513/fashioze-sales-updates</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="markdown"><![CDATA[# Fashioze Sales 0.2.0
-
-- 新增 Sparkle 安全自动更新
-- 新增“检查更新”入口
-- 支持菜单栏快捷看板与登录时自动启动
-- 销售额按成功付款时间统计，支持跨日付款订单
-- 修正店铺币种退款换算
-- 优化商品缩略图、小时趋势纵坐标和新订单提示
-]]></description>
-            <enclosure url="https://github.com/wjr18521614513/fashioze-sales-updates/releases/download/v0.2.0/Fashioze-Sales-0.2.0.zip" length="4552837" type="application/octet-stream" sparkle:edSignature="pahz/a9M3ybjxU8gWu44N1WOGoZji4Yw2xQ7eDlwPC21XC+IMcYkObqHDszJh87KEGbgEnRtYEYbXH8QLXpUCA=="/>
         </item>
     </channel>
 </rss>
